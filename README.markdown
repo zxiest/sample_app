@@ -1,4 +1,6 @@
 == Welcome to Rails
+This is an updated version of README for testing purposes
+
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
